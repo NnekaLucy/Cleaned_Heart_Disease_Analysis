@@ -5,6 +5,7 @@ Heart disease remains a major public health issue globally. Early detection and 
 Using SQL Server Management Studio (SSMS), we carried out targeted analyses focusing on patients with a higher chance of heart attack. The goal is to inform government health authorities on areas requiring urgent interventions.
 
 Analysis and Key Findings
+
 1. How Many People Have Heart Disease?
 We grouped patients based on their target status, which classifies their likelihood of having a heart attack.
 
