@@ -38,6 +38,7 @@ Most patients showed normal or minor abnormalities in their ECG readings, even a
 This suggests that ECGs alone might not be sufficient to rule out heart risks without additional medical tests.
 
 Recommendations to Government Health Authorities
+
 Based on the findings above, the following measures are recommended:
 
 1.Focus Screening on Middle-Aged Adults
@@ -55,7 +56,8 @@ Launch campaigns focusing on the importance of monitoring cholesterol, blood pre
 5.Make Heart Care Accessible
 Provide affordable or free health screening programs for vulnerable populations, especially those in rural or underserved communities.
 
-Conclusion
+**Conclusion**
+
 The analysis clearly shows that heart disease risks often exist without major visible symptoms. Middle-aged individuals, in particular, should be prioritized for early intervention programs.
 
 By implementing proactive health policies based on these findings, the government can significantly reduce the incidence of heart attacks and improve national healthcare outcomes.
