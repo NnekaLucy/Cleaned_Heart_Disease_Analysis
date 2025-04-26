@@ -1,61 +1,61 @@
-Introduction
-Heart disease remains one of the leading causes of death globally. This project analyzes patient health data to uncover patterns associated with the likelihood of heart attacks. The purpose of this analysis is to provide insights that can guide public health interventions and policies to reduce heart disease risk in the population.
+**Introduction**
 
-Using SQL Server Management Studio (SSMS), we performed data cleaning, analysis, and interpretation based on specific healthcare-related questions.
+Heart disease remains a major public health issue globally. Early detection and preventive care are critical to reducing deaths from heart attacks. This project analyzes patient health data to discover key patterns and risk factors associated with heart disease.
 
-Analysis Questions and Findings
-1. How Many People Have Heart Disease?
-We grouped patients based on their heart disease status (target).
+Using SQL Server Management Studio (SSMS), we carried out targeted analyses focusing on patients with a higher chance of heart attack. The goal is to inform government health authorities on areas requiring urgent interventions.
 
-Finding:
+**Analysis and Key Findings**
+**1. How Many People Have Heart Disease?**
+We grouped patients based on their target status, which classifies their likelihood of having a heart attack.
 
-A significant portion of the patients were classified as having a "More chance of heart attack."
+**Finding:**
+A significant number of patients were identified as having a higher chance of heart attack compared to those with a lower chance.
 
-This shows that heart disease risk is highly prevalent within the dataset.
+This emphasizes the need for proactive heart health monitoring in the population.
 
-2. Number of Patients with Higher Risk by Age
-We retrieved the number of patients likely to have a heart attack (More chance of heart attack) for each age.
+**2. Number of Patients with More Chance of Heart Attack by Age**
+We analyzed the number of patients likely to experience a heart attack across different ages.
 
-Finding:
+**Finding:**
+Patients aged around 40–60 years had higher counts of increased heart disease risk.
 
-Certain age groups, especially between 40 to 60 years, had higher counts of patients with an increased risk.
+This points to middle-aged adults as a key group for preventive health programs.
 
-This highlights middle-aged adults as a critical target group for intervention.
+**3. Most Common Type of Chest Pain Among High-Risk Patients**
+We examined the chest pain types (cp) among patients with a higher likelihood of heart attack.
 
-3. Most Common Type of Chest Pain Among High-Risk Patients
-We examined the chest pain type (cp) among patients with a higher chance of heart attack.
+**Finding:**
+The most common chest pain type among high-risk patients is asymptomatic chest pain.
 
-Finding:
+This is a concerning trend because it shows that many individuals may not display obvious warning signs despite facing a serious health threat.
 
-The most common chest pain type among high-risk individuals is Type 4 (asymptomatic), meaning many patients may not show obvious symptoms despite high risk.
+**4. Distribution of Resting Electrocardiographic (ECG) Results Among High-Risk Patients**
+We reviewed the distribution of resting ECG results (restecg) for patients at higher risk.
 
-This suggests a need for proactive screenings even when no symptoms are reported.
+**Finding:**
+Most patients showed normal or minor abnormalities in their ECG readings, even among those with a higher chance of heart attack.
 
-4. Distribution of Resting Electrocardiographic Results Among High-Risk Patients
-We analyzed the resting ECG results (restecg) among high-risk patients.
+This suggests that ECGs alone might not be sufficient to rule out heart risks without additional medical tests.
 
-Finding:
+**Recommendations to Government Health Authorities**
+Based on the findings above, the following measures are recommended:
 
-The majority of high-risk patients presented normal or slightly abnormal ECG readings.
+Focus Screening on Middle-Aged Adults
+Target individuals between 40–60 years for regular heart disease screenings and preventive healthcare education.
 
-Regular ECG monitoring can be vital in early detection of hidden heart problems.
+Promote Proactive Health Checks
+Educate the public about "silent" heart disease risks and encourage health checkups even without visible symptoms.
 
-Recommendations to the Government
-Based on these findings, we recommend the following:
+Comprehensive Risk Testing
+Encourage broader health evaluations beyond basic ECGs to detect hidden heart disease cases early.
 
-Targeted Health Campaigns
-Focus awareness and preventive measures on middle-aged adults (ages 40–60) where the risk is highest.
+Strengthen Public Awareness Campaigns
+Launch campaigns focusing on the importance of monitoring cholesterol, blood pressure, and lifestyle risks for heart disease.
 
-Proactive Screenings
-Encourage regular health screenings for heart disease, even for individuals without chest pain symptoms.
+Make Heart Care Accessible
+Provide affordable or free health screening programs for vulnerable populations, especially those in rural or underserved communities.
 
-Cholesterol and Blood Pressure Monitoring
-Provide accessible programs for monitoring cholesterol and blood pressure, as these are strongly linked to heart disease risk.
+**Conclusion**
+The analysis clearly shows that heart disease risks often exist without major visible symptoms. Middle-aged individuals, in particular, should be prioritized for early intervention programs.
 
-Public Education on "Silent Symptoms"
-Educate the public that heart disease may not always present noticeable symptoms (e.g., asymptomatic chest pain), and preventive checkups are crucial.
-
-Conclusion
-This analysis highlights the urgent need for proactive and inclusive heart disease prevention strategies. Early identification, public education, and affordable health services could significantly reduce heart attack risks across vulnerable groups, particularly among middle-aged populations.
-
-By acting on these insights, the government and health agencies can save lives and improve national health outcomes.
+By implementing proactive health policies based on these findings, the government can significantly reduce the incidence of heart attacks and improve national healthcare outcomes.
